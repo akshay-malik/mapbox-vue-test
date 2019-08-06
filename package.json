@@ -8,7 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@mapbox/geojson-merge": "^1.0.2",
+    "axios": "^0.19.0",
     "core-js": "^2.6.5",
+    "mapbox-gl": "^1.2.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
